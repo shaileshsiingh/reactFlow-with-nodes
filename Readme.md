@@ -97,4 +97,5 @@ The app will open in your default browser at `http://localhost:5173`.
 
 
 
-Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
+Project Link: https://github.com/shaileshsiingh/reactFlow-with-nodes (Github Repo)
+Deployed link : https://whimsical-gingersnap-b5b4ae.netlify.app/
